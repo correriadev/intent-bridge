@@ -1,0 +1,6 @@
+interface:
+  display_name: "IntentBridge"
+  short_description: "Registra decisões desta conversa no grafo local"
+  default_prompt: "Use $intentbridge para ativar o registro neste chat."
+policy:
+  allow_implicit_invocation: false

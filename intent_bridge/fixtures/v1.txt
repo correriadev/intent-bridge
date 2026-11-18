@@ -1,0 +1,10 @@
+Rascunho provisório · dados fictícios
+
+[resumo]
+Renda de aposentadoria
+Saldo ilustrativo: R$ 2.400,00
+
+[pagamentos]
+Histórico de pagamentos
+01/03 — R$ 1.200,00
+01/02 — R$ 1.200,00
